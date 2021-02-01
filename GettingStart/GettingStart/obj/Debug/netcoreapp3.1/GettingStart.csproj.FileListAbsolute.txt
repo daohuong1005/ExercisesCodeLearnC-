@@ -1,0 +1,13 @@
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\bin\Debug\netcoreapp3.1\GettingStart.exe
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\bin\Debug\netcoreapp3.1\GettingStart.deps.json
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\bin\Debug\netcoreapp3.1\GettingStart.runtimeconfig.json
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\bin\Debug\netcoreapp3.1\GettingStart.runtimeconfig.dev.json
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\bin\Debug\netcoreapp3.1\GettingStart.dll
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\bin\Debug\netcoreapp3.1\GettingStart.pdb
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\obj\Debug\netcoreapp3.1\GettingStart.csprojAssemblyReference.cache
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\obj\Debug\netcoreapp3.1\GettingStart.AssemblyInfoInputs.cache
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\obj\Debug\netcoreapp3.1\GettingStart.AssemblyInfo.cs
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\obj\Debug\netcoreapp3.1\GettingStart.csproj.CoreCompileInputs.cache
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\obj\Debug\netcoreapp3.1\GettingStart.dll
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\obj\Debug\netcoreapp3.1\GettingStart.pdb
+F:\Fsoft_Ex\C#\GettingStart\GettingStart\obj\Debug\netcoreapp3.1\GettingStart.genruntimeconfig.cache
